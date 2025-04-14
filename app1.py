@@ -131,7 +131,7 @@ def hint():
     <body>
         <div class="container">
             <h1>Hint</h1>
-            <p>The secret is hex-encoded. Decode it to bytes, use the username as a key (repeat to 18 bytes), and convert to text.</p>
+            <p>The secret cookie holds the flag, encoded in hex. Find the key on the page and think about how it might unlock the secret (18 bytes long).</p>
             <p><a href="/">Back to challenge</a></p>
         </div>
     </body>
